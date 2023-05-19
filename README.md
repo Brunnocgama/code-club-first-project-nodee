@@ -1,7 +1,7 @@
 # codeclub-first-project-node
 
 <img src="https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/elementor/thumbs/LOGO_1-pl6s0w83bob17fyv2myc9hccfjkrd6md916y3lfbcg.png.webp"
-    alt="imagem-dev-club" height="42" width="42">
+    alt="imagem-dev-club" height="81" width="81">
 
 <h1>Challenge CodeClub</h1>
 
